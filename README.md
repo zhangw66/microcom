@@ -29,3 +29,7 @@ For details please refer to autotools documentation and have a look to the confi
 
 - To build this program without using the autotools just enter the following commands:
   touch config.h && make -f Makefile.old
+
+=====
+how to quit?
+input "~", then will dump help menu, enjoy it!
